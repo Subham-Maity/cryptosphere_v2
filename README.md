@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+## CryptoSphere 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CryptoSphere is a React app that provides users with a variety of features related to cryptocurrencies, including:
 
-## Available Scripts
+* Crypto price
+* Crypto history
+* Crypto information
+* Crypto news
+* Exchange
+* Crypto read time graph
+* Crypto prediction
 
-In the project directory, you can run:
+The app uses the following frameworks and APIs:
 
-### `npm start`
+* RapidAPI
+* CoinRanking API
+* Bing News Search
+* ReactJS
+* Coincap
+* Pandas
+* Plotly
+* Prophet by Facebook
+* Streamlit
+* Yahoo Finance
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To get started with CryptoSphere, you will need to:
 
-### `npm test`
+1. Clone the repository from GitHub:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```
+git clone https://github.com/[your-username]/cryptosphere.git
+```
 
-### `npm run build`
+2. Install the dependencies:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+npm install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Start the development server:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+npm start
+```
 
-### `npm run eject`
+The app will be available at `localhost:3000`.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Features
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+CryptoSphere provides a variety of features for users to explore the world of cryptocurrencies. These features include:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* Crypto price: View the current price of any cryptocurrency.
+* Crypto history: View the historical price data for any cryptocurrency.
+* Crypto information: Get detailed information about any cryptocurrency, such as its market cap, volume, and circulating supply.
+* Crypto news: Stay up-to-date on the latest cryptocurrency news.
+* Exchange: Exchange cryptocurrencies with other users.
+* Crypto read time graph: View a graph of the average read time for each cryptocurrency article.
+* Crypto prediction: Use Prophet by Facebook to predict the future price of any cryptocurrency.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contributing
 
-## Learn More
+We are always looking for contributors to CryptoSphere. If you are interested in contributing, please follow these steps:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Fork the repository from GitHub.
+2. Make your changes and commit them.
+3. Open a pull request.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+We will review your pull request and merge it if it meets our standards.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
